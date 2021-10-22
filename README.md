@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ComputerDevK
-- 👀 I’m interested in golamg jsnode, and love linux
-- 🌱 I’m currently learning how to better my linux skills
-- 💞️ I’m looking to collaborate on just about anything
-- 📫 How to reach me ...
+- 👀 I’m interested in golang, jsnode, and I love linux to gigabytes
+- 🌱 I'd currently be learning to balance my chakhrahs if I knew what a chakhra was
+- 💞️ I’d like to collaborate on things that involve linux programing
+- 📫 you may reach me at reigningpain@outlook.com
 
 <!---
 ComputerDevK/ComputerDevK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
